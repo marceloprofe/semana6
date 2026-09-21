@@ -20,7 +20,7 @@ Durante la actividad deberás trabajar únicamente en las secciones indicadas co
 4. Obtener una cantidad determinada de elementos.
 5. Buscar productos por nombre.
 
-| [Ejercicio 1](./ejercicio-1.md) | [Ejercicio 2](./ejercicio-2.md) | [Ejercicio 3](./ejercicio-3.md) | [Ejercicio 4](./ejercicio-4.md) | [Ejercicio 5](./ejercicio-5.md) |
+| [Ejercicio 1](../ejercicio-1.md) | [Ejercicio 2](../ejercicio-2.md) | [Ejercicio 3](../ejercicio-3.md) | [Ejercicio 4](../ejercicio-4.md) | [Ejercicio 5](../ejercicio-5.md) |
 |:---:|:---:|:---:|:---:|:---:|
 
 ## Importante
