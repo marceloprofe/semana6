@@ -331,6 +331,7 @@ function mostrarCuatroProductos() {
 
     // PASO 1:
     // Obtener los primeros cuatro productos.
+    const primerosCuatro = productos.slice(0, 4);
 
     mostrarProductos(primerosCuatro);
 
